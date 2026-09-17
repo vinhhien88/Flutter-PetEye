@@ -15,7 +15,7 @@ The project is centred on a cross-platform Flutter application, backed by a Spri
 
 ## 📸 Demo
 
-[▶️ Watch video demo](https://youtube.com/shorts/PvS8uDcq0VY)
+[▶️ Watch video demo](https://youtube.com/shorts/otHoTcB4oD0)
 
 ## Tech Stack
 
